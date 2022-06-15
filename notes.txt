@@ -1,1 +1,0 @@
-GIT_SSH_COMMAND='ssh -i /home/joe/development/key/git-Alteheit-GeneralKey.pem' git push
