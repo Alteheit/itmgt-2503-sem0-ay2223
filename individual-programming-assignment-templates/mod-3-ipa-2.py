@@ -1,6 +1,9 @@
 '''Module 3: Individual Programming Assignment 2
 
 Business Simulations
+
+This assignment covers your ability to apply Python to solve a
+    quantitative problem.
 '''
 
 def optimal_diet(
