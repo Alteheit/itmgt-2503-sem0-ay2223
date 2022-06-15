@@ -42,6 +42,9 @@ def optimal_diet(
         a 2-element tuple of ints representing how many pounds of 
         (corn, soymeal) to add to the mix each day
     '''
+    # Replace `pass` with your code. 
+    # Stay within the function. Only use the parameters as input. The function should return your answer.
+    pass
 
 def optimal_investments(
     personal_loan_rate, personal_loan_writeoff_ratio,
