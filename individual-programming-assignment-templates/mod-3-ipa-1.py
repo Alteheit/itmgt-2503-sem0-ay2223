@@ -61,7 +61,7 @@ def caesar_cipher(message, shift):
     # Stay within the function. Only use the parameters as input. The function should return your answer.
     pass
 
-def shift_by_letter(letter, shift_letter):
+def shift_by_letter(letter, letter_shift):
     '''Shift By Letter. 
     10 points.
     
