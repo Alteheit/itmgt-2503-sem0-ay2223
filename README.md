@@ -5,3 +5,6 @@ This repository contains programming resources for ITMGT 25.03, Intersession 202
 
 ## `individual-programming-assignment-templates/`
 This folder contains the templates for the individual programming assignments.
+
+## `summative-assessment-scaffolding/`
+This folder contains resources that may help you in the summative assessments.
