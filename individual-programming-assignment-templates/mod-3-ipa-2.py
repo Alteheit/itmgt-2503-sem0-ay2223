@@ -21,6 +21,12 @@ def optimal_diet(
     1. The blend you develop must be at least 30% protein and at most 5% fiber.
     2. The farm uses at least 800 pounds of feed daily.
 
+    Examples: 
+    optimal_diet(
+        0.09, 0.02, 3,
+        0.60, 0.06, 9
+    ) -> (470, 330)
+
     Parameters
     ----------
     corn_protein_composition: float
